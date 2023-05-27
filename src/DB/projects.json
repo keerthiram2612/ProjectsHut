@@ -252,6 +252,24 @@
     ]
   },
   {
+    "github_username": "keerthiram2612",
+    "Social_media": {
+      "gitHub": "https://github.com/keerthiram2612",
+      "LinkedIn": "https://www.linkedin.com/in/keerthi-ram-66aa33242/",
+      "Instagram": "",
+      "YouTube": "",
+      "Twitter": ""
+    },
+    "Projects": [
+      {
+        "link": "https://github.com/keerthiram2612/Canva-template",
+        "title": "Canva Template",
+        "description": "Canva's templates provide a shortcut to good design,they're fully customizable, so you can change the colors, images and more to suit your taste.",
+        "tech": ["React", "Api", "Nextjs"]
+      }
+    ]
+  },
+  {
     "github_username": "A10-g",
     "Social_media": {
       "gitHub": "",
